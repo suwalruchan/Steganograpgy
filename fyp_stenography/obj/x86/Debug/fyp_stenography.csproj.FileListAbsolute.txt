@@ -1,0 +1,38 @@
+c:\users\bijesh.bijesh-pc\documents\visual studio 2010\Projects\fyp_stenography\fyp_stenography\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bijesh.bijesh-pc\documents\visual studio 2010\Projects\fyp_stenography\fyp_stenography\obj\x86\Debug\fyp_stenography.Form1.resources
+c:\users\bijesh.bijesh-pc\documents\visual studio 2010\Projects\fyp_stenography\fyp_stenography\obj\x86\Debug\fyp_stenography.Form2.resources
+c:\users\bijesh.bijesh-pc\documents\visual studio 2010\Projects\fyp_stenography\fyp_stenography\obj\x86\Debug\fyp_stenography.Properties.Resources.resources
+c:\users\bijesh.bijesh-pc\documents\visual studio 2010\Projects\fyp_stenography\fyp_stenography\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\bijesh.bijesh-pc\documents\visual studio 2010\Projects\fyp_stenography\fyp_stenography\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\bijesh.bijesh-pc\documents\visual studio 2010\Projects\fyp_stenography\fyp_stenography\bin\Debug\fyp_stenography.exe
+c:\users\bijesh.bijesh-pc\documents\visual studio 2010\Projects\fyp_stenography\fyp_stenography\bin\Debug\fyp_stenography.pdb
+c:\users\bijesh.bijesh-pc\documents\visual studio 2010\Projects\fyp_stenography\fyp_stenography\obj\x86\Debug\fyp_stenography.exe
+c:\users\bijesh.bijesh-pc\documents\visual studio 2010\Projects\fyp_stenography\fyp_stenography\obj\x86\Debug\fyp_stenography.pdb
+E:\Visual Studio 2010\Projects\fyp_stenography\fyp_stenography\obj\x86\Debug\fyp_stenography.exe
+E:\Visual Studio 2010\Projects\fyp_stenography\fyp_stenography\obj\x86\Debug\fyp_stenography.pdb
+E:\Visual Studio 2010\Projects\fyp_stenography\fyp_stenography\bin\Debug\fyp_stenography.exe
+E:\Visual Studio 2010\Projects\fyp_stenography\fyp_stenography\bin\Debug\fyp_stenography.pdb
+E:\Visual Studio 2010\Projects\fyp_stenography\fyp_stenography\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio 2010\Projects\fyp_stenography\fyp_stenography\obj\x86\Debug\fyp_stenography.Form1.resources
+E:\Visual Studio 2010\Projects\fyp_stenography\fyp_stenography\obj\x86\Debug\fyp_stenography.Form2.resources
+E:\Visual Studio 2010\Projects\fyp_stenography\fyp_stenography\obj\x86\Debug\fyp_stenography.Properties.Resources.resources
+E:\Visual Studio 2010\Projects\fyp_stenography\fyp_stenography\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Visual Studio 2010\Projects\fyp_stenography\fyp_stenography\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\bjsmasth\Desktop\st\fyp_stenography\fyp_stenography\obj\x86\Debug\fyp_stenography.exe
+C:\Users\bjsmasth\Desktop\st\fyp_stenography\fyp_stenography\obj\x86\Debug\fyp_stenography.pdb
+C:\Users\bjsmasth\Desktop\st\fyp_stenography\fyp_stenography\bin\Debug\fyp_stenography.exe
+C:\Users\bjsmasth\Desktop\st\fyp_stenography\fyp_stenography\bin\Debug\fyp_stenography.pdb
+C:\Users\bjsmasth\Desktop\st\fyp_stenography\fyp_stenography\obj\x86\Debug\fyp_stenography.Form1.resources
+C:\Users\bjsmasth\Desktop\st\fyp_stenography\fyp_stenography\obj\x86\Debug\fyp_stenography.Form2.resources
+C:\Users\bjsmasth\Desktop\st\fyp_stenography\fyp_stenography\obj\x86\Debug\fyp_stenography.Properties.Resources.resources
+C:\Users\bjsmasth\Desktop\st\fyp_stenography\fyp_stenography\obj\x86\Debug\fyp_stenography.csproj.GenerateResource.Cache
+C:\Users\bjsmasth\Desktop\st\fyp_stenography\fyp_stenography\obj\x86\Debug\fyp_stenography.csprojResolveAssemblyReference.cache
+C:\Users\bjsmasth\Desktop\st\st\fyp_stenography\fyp_stenography\obj\x86\Debug\fyp_stenography.exe
+C:\Users\bjsmasth\Desktop\st\st\fyp_stenography\fyp_stenography\obj\x86\Debug\fyp_stenography.pdb
+C:\Users\bjsmasth\Desktop\st\st\fyp_stenography\fyp_stenography\bin\Debug\fyp_stenography.exe
+C:\Users\bjsmasth\Desktop\st\st\fyp_stenography\fyp_stenography\bin\Debug\fyp_stenography.pdb
+C:\Users\bjsmasth\Desktop\st\st\fyp_stenography\fyp_stenography\obj\x86\Debug\fyp_stenography.csprojResolveAssemblyReference.cache
+C:\Users\bjsmasth\Desktop\st\st\fyp_stenography\fyp_stenography\obj\x86\Debug\fyp_stenography.Form1.resources
+C:\Users\bjsmasth\Desktop\st\st\fyp_stenography\fyp_stenography\obj\x86\Debug\fyp_stenography.Form2.resources
+C:\Users\bjsmasth\Desktop\st\st\fyp_stenography\fyp_stenography\obj\x86\Debug\fyp_stenography.Properties.Resources.resources
+C:\Users\bjsmasth\Desktop\st\st\fyp_stenography\fyp_stenography\obj\x86\Debug\fyp_stenography.csproj.GenerateResource.Cache
